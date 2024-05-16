@@ -1,2 +1,4 @@
 # third-demo
-This is my third git Repository author-chanda Gyawali
+This is my third git Repository
+<br>
+author-chanda Gyawali
